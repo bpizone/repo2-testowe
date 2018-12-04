@@ -1,0 +1,1 @@
+const feature = console.log('nowy myk');
